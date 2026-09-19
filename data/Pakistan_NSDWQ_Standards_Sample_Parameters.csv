@@ -1,0 +1,18 @@
+Sample_Feature,Parameter,Unit,Pakistan_NSDWQ_Limit,Notes
+Calcium,Calcium,mg/L,NGVS,No guideline value specified
+Chloride,Chloride,mg/L,<250,Maximum permissible limit
+EC,EC,µS/cm,NGVS,No guideline value specified
+Fluoride,Fluoride,mg/L,1.5,Maximum permissible limit
+Hardness,Hardness,mg/L,<500,Maximum permissible limit
+Iron,Iron,mg/L,0.3,Maximum permissible limit
+Magnesium,Magnesium,mg/L,NGVS,No guideline value specified
+pH,pH,-,6.5–8.5,Acceptable range
+Potassium,Potassium,mg/L,NGVS,No guideline value specified
+Sodium,Sodium,mg/L,NGVS,No guideline value specified
+Sulfate,Sulfate,mg/L,NGVS,No guideline value specified
+TDS,TDS,mg/L,<1000,Maximum permissible limit
+Turbidity,Turbidity,NTU,5,Maximum permissible limit
+Arsenic,Arsenic,mg/L,≤0.050,Maximum permissible limit
+Nitrate,Nitrate,mg/L,≤50,Maximum permissible limit
+Total Coliform,Total Coliforms,MPN/100 Liter,0,Must be absent
+E. Coli,E. coli,MPN/100 Liter,0,Must be absent
